@@ -75,6 +75,10 @@ I’m continuously learning better ways to build, automate, deploy, and improve 
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevWithMirxa&theme=radical&layout=compact" alt="Mirxa Rafay's Most Used Languages" width="450">
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevWithMirxa&theme=radical" alt="Mirxa Rafay GitHub Contributions and Streak Stats" width="450">
 </p>
 
