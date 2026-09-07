@@ -92,9 +92,7 @@ I’m continuously learning better ways to build, automate, deploy, and improve 
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
-<p align="center">
-sales-Dashboard
-</p>
+<a align="center"  href="https://github.com/DevWithMirxa/Sales-Dashboard">Sales-Dashboard</a>
 
 <p align="center">
 👁️ <strong>Total Profile Visits: 7</strong>
