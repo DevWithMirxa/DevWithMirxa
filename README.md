@@ -16,6 +16,8 @@ I'm Mirxa Rafay, a Full-Stack Developer passionate about building modern, scalab
 | Current Streak | **11** |
 | Initial | **A** |
 
+![](https://github-readme-stats.shion.dev/api?username=DevWithMirxa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DevWithMirxa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevWithMirxa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
