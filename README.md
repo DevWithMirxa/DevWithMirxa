@@ -71,11 +71,11 @@ I’m continuously learning better ways to build, automate, deploy, and improve 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevWithMirxa&show_icons=true&theme=radical" alt="Mirxa Rafay's GitHub Stats" width="450">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=DevWithMirxa&show_icons=true&theme=radical" alt="Mirxa Rafay's GitHub Stats" width="450">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWithMirxa&theme=radical" alt="Mirxa Rafay GitHub Contributions and Streak Stats" width="450">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevWithMirxa&theme=radical" alt="Mirxa Rafay GitHub Contributions and Streak Stats" width="450">
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
