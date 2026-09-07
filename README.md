@@ -4,6 +4,12 @@
 
 I’m Mirxa Rafay, a Full-Stack Developer passionate about building modern, scalable, and user-focused web applications.<br><br>I’m interested in Web Development, DevOps, Cloud, and AI, and I enjoy turning ideas into practical, production-ready solutions. I’m continuously learning and exploring better ways to build, automate, deploy, and improve software.<br><br>🚀 What I’m Focused On<br>🌐 Building modern full-stack web applications<br>⚡ Creating fast, responsive, and intuitive interfaces<br>☁️ Learning Cloud & DevOps engineering<br>🔄 Exploring CI/CD, automation, containers & deployment<br>🤖 Integrating AI into practical software solutions<br>🧠 Improving my problem-solving & engineering skills<br>🛠️ Combining Web Development, DevOps & AI<br><br>Build. Automate. Learn. Improve. 🚀
 
+🌐 Portfolio
+
+<a href="https://mirxa-rafay-25.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MirxaRafay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirza-rafay-25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirxarafay25@gmail.com)
