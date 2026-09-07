@@ -71,14 +71,18 @@ I’m continuously learning better ways to build, automate, deploy, and improve 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006cd48206b931564318f6230b&fn=github-stats-card-450%282%29.png&cd=attachment&ts=496890&p=fs&cid=1&sig=eb7f4c48b49a3e78916905e8ca19813f3ede923c3920458f6b3369103e1cc0c8&v=0" alt="Mirxa Rafay's GitHub Stats" width="450">
+<img src="./github-stats-card-450.png" alt="Mirxa Rafay's GitHub Stats" width="450">
 </p>
 
 <p align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000002f6882099f402434fb7fdc41&fn=github-streak-card-450%281%29.png&cd=attachment&ts=496890&p=fs&cid=1&sig=c6baaa0df9a2084f8832db5dd1a7a01d69244d1b156f1c230bb48ef4cdd84da8&v=0" alt="Mirxa Rafay GitHub Contributions and Streak Stats" width="450">
+<img src="./github-streak-card-450.png" alt="Mirxa Rafay GitHub Contributions and Streak Stats" width="450">
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevWithMirxa&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
@@ -88,7 +92,9 @@ I’m continuously learning better ways to build, automate, deploy, and improve 
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
----
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=DevWithMirxa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
 
 <p align="center">
 👁️ <strong>Total Profile Visits: 7</strong>
